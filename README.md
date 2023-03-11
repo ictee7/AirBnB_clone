@@ -1,4 +1,4 @@
-![hbnb Logo](hbnb_logo.png)
+![hbnb_logo](https://user-images.githubusercontent.com/74459608/224468396-5e277f87-2a19-41b6-ad02-319b1c52eca2.png)
 
 # AirBnB Clone
 
